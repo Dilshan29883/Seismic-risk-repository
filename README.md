@@ -1,4 +1,4 @@
-
+# Seismic-risk-repository
 This repository contains: Cadastral data for the La Iguaná micro-basin area. Acceleration maps for two seismic scenarios: a 7.5 Mw shallow event and an 8.4 Mw deep event. Collapse probability maps for the buildings in the La Iguaná micro-basin under both seismic scenarios (7.5 Mw shallow and 8.4 Mw deep).
 <br>
 
@@ -8,6 +8,5 @@ This repository contains: Cadastral data for the La Iguaná micro-basin area. Ac
 <br>
 <img width="543" height="500" alt="download (3)" src="https://github.com/user-attachments/assets/00340190-d956-4632-a50b-9ae56e5a1134" /><br>
 <img width="405" height="682" alt="download (4)" src="https://github.com/user-attachments/assets/c9a662fc-d77b-4039-b2cd-24ae6b253512" />
-# Seismic-risk-repository
 
 
